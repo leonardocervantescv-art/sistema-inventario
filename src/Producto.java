@@ -21,7 +21,7 @@ public class Producto {
         System.out.println("Nombre: " + nombre);
         System.out.println("Precio: $" + precio);
         System.out.println("Existencia: " + existencia);
-        System.out.println("Producto en inventario");
+        System.out.println("Producto disponible");
     }
 
     public static void main(String[] args) {
